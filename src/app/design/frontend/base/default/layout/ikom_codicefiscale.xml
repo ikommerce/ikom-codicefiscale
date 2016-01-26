@@ -5,5 +5,10 @@
 			<action method="addJs"><script>ikom/cf.js</script></action>
 		</reference>
 	</checkout_onepage_index>
+	<customer_address_form>
+		<reference name="head">
+			<action method="addJs"><script>ikom/cf.js</script></action>
+		</reference>
+	</customer_address_form>	
 </layout>
 	

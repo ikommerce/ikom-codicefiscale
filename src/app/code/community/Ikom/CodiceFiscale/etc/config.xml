@@ -20,6 +20,11 @@
                         <additional>ikom_codicefiscale.csv</additional>
                     </files>
                 </Mage_Checkout>
+               	<Mage_Customer>
+                    <files>
+                        <additional>ikom_codicefiscale.csv</additional>
+                    </files>
+                </Mage_Customer>
             </modules>
         </translate>
 	</frontend>
